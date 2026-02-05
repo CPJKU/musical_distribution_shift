@@ -1,5 +1,3 @@
-*Note: the repository files are in the final stage of curation and will be arriving shortly. Stay put!*
-
 # Musical Distribution Shift
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17467279.svg)](https://doi.org/10.5281/zenodo.17467279)
