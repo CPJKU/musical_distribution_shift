@@ -1,0 +1,101 @@
+mds_file,title,genre,path_in_adl_piano_midi,duration_sec,longest_gap_sec,total_gap_sec,tempo_bpm,num_notes,num_unique_pitches,num_unique_velocities
+Classical_01,Lyric Pieces_ Bk V Op 54 V      Scherzo,Classical,Classical/Classical/Leif Ove Andsnes/Lyric Pieces_ Bk V Op 54 V      Scherzo.mid,177.94198161328126,3.452343750000012,29.92463583984372,217.96163203317337,1479,58,102
+Classical_02,The Seasons Op 37b IX    Septembre (La chasse),Classical,Classical/Classical Performance/Mikhail Pletnev/The Seasons Op 37b IX    Septembre (La chasse).mid,163.63044456250012,0.3521122500000047,31.102623000000136,204.02859399054728,2232,53,70
+Classical_03,Storia DAmore (Live),Classical,Classical/Operatic Pop/Sarah Brightman/Storia DAmore (Live).mid,234.66678400000004,2.6666680000000005,18.090286822916728,104.9999475000261,1002,41,21
+Classical_04,Silent Night (Karaoke Version),Classical,Classical/Operatic Pop/Mark Masri/Silent Night (Karaoke Version).mid,203.0475467416667,0.0166666666666799,2.4800230583339062,136.76814153304042,647,35,24
+Classical_05,Etude In C Minor,Classical,Classical/Ballroom/Roger Williams/Etude In C Minor.mid,154.037939,0.5735291249999932,4.776675812500043,264.8508606943085,2082,65,103
+Classical_06,Etude in E_ Op 10_ No 3,Classical,Classical/Classical Piano/Van Cliburn/Etude in E_ Op 10_ No 3.mid,154.04166666666666,3.0,21.66666666666661,120.0,845,34,55
+Classical_07,Pictures at an Exhibition Bydlo,Classical,Classical/Classical Performance/Mikhail Pletnev/Pictures at an Exhibition Bydlo.mid,171.1951833625,0.0,0.0,93.60528770146524,980,57,93
+Classical_08,Concerto in A minor F VII 5 - RV 461 I Allegro non molto,Classical,Classical/Classical/Philharmonia Orchestra/Concerto in A minor F VII 5 - RV 461 I Allegro non molto.mid,189.4531196083984,2.1875,11.5289306640625,202.3783783783784,2137,47,47
+Classical_09,Handel in the Strand,Classical,Classical/Classical Piano/Martin Jones/Handel in the Strand.mid,155.5082856367188,2.5,26.12820034960944,235.85750314910752,2585,62,95
+Classical_10,Liebesbotschaft_ S 560_ No 10 from Schwanengesang,Classical,Classical/Classical Performance/Arcadi Volodos/Liebesbotschaft_ S 560_ No 10 from Schwanengesang.mid,180.81739678958328,0.0677769166666735,3.3124023937498874,207.49074989735507,2202,56,92
+Blues_01,Polyragmic 8733,Blues,Blues/Ragtime/Max Morath/Polyragmic 8733.mid,174.90625,4.096875,72.37187500000003,224.4841815680935,3047,71,120
+Blues_02,Rockin Around The Christmas Tree,Blues,Blues/Ragtime/Sue Keller/Rockin Around The Christmas Tree.mid,120.450625,3.1725000000000136,37.43125000000009,196.50365125027653,1145,41,42
+Blues_03,Ragtime Nightingale,Blues,Blues/Ragtime/Max Morath/Ragtime Nightingale.mid,206.6015625,3.0,12.5,180.1005025125628,2818,61,44
+Blues_04,Weeping Willow - A Ragtime Two-Step  (LP Version),Blues,Blues/Ragtime/Joshua Rifkin/Weeping Willow - A Ragtime Two-Step  (LP Version).mid,233.895,1.99875,106.94375000000028,188.03418803418583,3028,66,118
+Blues_05,The Ragtime Oriole,Blues,Blues/Ragtime/Max Morath/The Ragtime Oriole.mid,212.5267860833333,0.8064512500000001,38.19218711458346,184.84685023157,2977,58,46
+Blues_06,The Cascades,Blues,Blues/Ragtime/Max Morath/The Cascades.mid,187.45,3.44375,89.74375,200.29806259314617,2734,63,113
+Blues_07,If Every Day Was Like Christmas,Blues,Blues/Ragtime/Sue Keller/If Every Day Was Like Christmas.mid,191.837586,1.937586,37.47758599999992,193.67991845055968,1341,42,38
+Blues_08,Cuttin in,Blues,Blues/Blues/Roomful Of Blues/Cuttin in.mid,174.72,1.924,31.96400000000013,182.66475644699048,804,22,37
+Blues_09,The Sycamore (A Concert Rag),Blues,Blues/Ragtime/Scott Joplin/The Sycamore (A Concert Rag).mid,175.97551846875,0.0243055312500075,10.01387887500002,177.0788287642222,2135,53,25
+Blues_10,Easy Winners_ The-A Ragtime Two Step,Blues,Blues/Ragtime/Max Morath/Easy Winners_ The-A Ragtime Two Step.mid,215.3176740000001,0.3658530000000013,1.1351811406250114,168.87959587793057,2521,48,47
+Rock_01,Poor Little Fool,Rock,Rock/Rock-And-Roll/Ricky Valance/Poor Little Fool.mid,138.947424,3.164474949999999,7.690792550000045,123.4999506000198,465,31,22
+Rock_02,Its Hard To Be Humble (Bonus Track),Rock,Rock/Country Rock/Mac Davis/Its Hard To Be Humble (Bonus Track).mid,202.125,2.25,8.25,155.67567567567568,713,15,30
+Rock_03,Whos Sorry Now,Rock,Rock/Rock-And-Roll/Sandy Posey/Whos Sorry Now.mid,155.99566710000002,2.7562499999999943,16.89999755833264,243.95599739249045,2047,20,58
+Rock_04,Turn Around_ Look At Me,Rock,Rock/Folk Rock/The Vogues/Turn Around_ Look At Me.mid,134.07985983333336,2.322352,8.16092044166669,160.28588525732516,626,32,26
+Rock_05,After The Blackbird Sings,Rock,Rock/Alternative Rock/The Wallflowers/After The Blackbird Sings.mid,199.2,0.7000000000000028,27.480000000000057,88.88888888888889,661,31,20
+Rock_06,Ancient Arms,Rock,Rock/Progressive Bluegrass/Donna The Buffalo/Ancient Arms.mid,237.36,3.6,16.963999999999977,248.50948509485087,1689,26,55
+Rock_07,I Will Come To You,Rock,Rock/Pop Rock/Hanson/I Will Come To You.mid,217.6,4.310000000000002,23.136666666666702,107.14285714285698,1123,41,21
+Rock_08,Walk Through This World With Me (Album Version),Rock,Rock/Country Rock/Tanya Tucker/Walk Through This World With Me (Album Version).mid,189.1293172,4.941174,31.958807550000035,153.00007650003818,632,25,33
+Rock_09,Open Arms,Rock,Rock/Album Rock/Journey/Open Arms.mid,191.8074168000001,0.6745286166666915,19.306612783333414,138.55041711942712,861,36,41
+Rock_10,Two At A Time (Hidden Track),Rock,Rock/Boston Rock/Guster/Two At A Time (Hidden Track).mid,200.470488,2.823528,24.36395840624993,174.14642853662923,758,26,33
+Soul_01,Too Late To Turn Back Now,Soul,Soul/Classic Soul/Cornelius Brothers  Sister Rose/Too Late To Turn Back Now.mid,200.3984375,4.0,21.765625000000696,202.10526315789477,783,16,46
+Soul_02,Hace Quanto He Dicho Que Te Amo  (Have I Told You Lately),Soul,Soul/Soul Flow/Emilio/Hace Quanto He Dicho Que Te Amo  (Have I Told You Lately).mid,136.615396,3.207692575,6.315385141666668,141.81817000000095,747,27,41
+Soul_03,Overjoyed,Soul,Soul/Soul/Stevie Wonder/Overjoyed.mid,218.954394140625,2.85714,8.124991874999896,154.66397991704332,886,40,55
+Soul_04,Wasting Your Time,Soul,Soul/Neo Soul/David Anthony/Wasting Your Time.mid,210.0000245,1.8858269916666668,25.137798208333184,176.88452426267688,1042,37,67
+Soul_05,Proud Mary,Soul,Soul/Classic Soul/Eddie Floyd/Proud Mary.mid,175.90504341666667,2.068964,34.07756121666663,123.55038646160408,444,25,29
+Soul_06,Hark The Herald Angels SingGloria (In Excelsis Deo),Soul,Soul/R&B/Mariah Carey/Hark The Herald Angels SingGloria (In Excelsis Deo).mid,179.57134056666658,2.5,5.0397478333333545,111.15789473684212,869,55,76
+Soul_07,Always,Soul,Soul/Funk/Atlantic Starr/Always.mid,215.89264125000005,0.4214281500000254,10.771417799999991,140.00014000014002,1056,33,34
+Soul_08,If I Aint Got You,Soul,Soul/Neo Soul/Alicia Keys/If I Aint Got You.mid,216.468,2.88,43.71200000000002,133.19672131147544,1351,38,67
+Soul_09,Too Young,Soul,Soul/Soul/Michael Jackson/Too Young.mid,149.43403200000003,4.528304,6.811323933333272,209.4615785027952,747,29,37
+Soul_10,Midnight Train To Georgia (Single Edit Version),Soul,Soul/Funk/Gladys Knight  The Pips/Midnight Train To Georgia (Single Edit Version).mid,209.9317622,2.727272,23.27272106666652,159.39626892076615,1093,31,31
+Jazz_01,We Will Meet Again,Jazz,Jazz/Cool Jazz/Bill Evans/We Will Meet Again.mid,191.85207900000003,4.1586406770833335,57.84672005625005,183.9679745749062,1087,58,90
+Jazz_02,Green Dolphin Street,Jazz,Jazz/Jazz Trio/Vince Guaraldi Trio/Green Dolphin Street.mid,132.8332005,0.7138881750000081,50.2277275500002,210.6964770940545,1244,69,81
+Jazz_03,Just Friends (trio),Jazz,Jazz/Danish Jazz/Jesper Thilo/Just Friends (trio).mid,189.7422345,1.537877250000001,109.11352724999983,151.26890979551305,1911,64,86
+Jazz_04,Sweet And Lovely,Jazz,Jazz/Jazz Trio/Vince Guaraldi Trio/Sweet And Lovely.mid,238.649244275,1.5499950916666667,108.54196397499952,200.0681327053477,2567,59,91
+Jazz_05,Ive Grown Accustomed,Jazz,Jazz/Jazz Trumpet/Chris Botti/Ive Grown Accustomed.mid,201.9545203333333,2.537589375,78.34572233333314,199.30496540075683,1853,68,89
+Jazz_06,Ladies In Mercedes,Jazz,Jazz/Contemporary Jazz/Steve Kuhn/Ladies In Mercedes.mid,177.3357201,0.653524987499992,62.94897551250015,194.39271775720565,2096,57,97
+Jazz_07,Penthouse Serenade,Jazz,Jazz/Cool Jazz/Erroll Garner/Penthouse Serenade.mid,177.61119991666666,0.6833336750000001,74.30559270833325,177.20198393786808,1614,63,83
+Jazz_08,The Folks Who Live,Jazz,Jazz/Contemporary Vocal Jazz/Søren Lampe/The Folks Who Live.mid,190.74166666666667,2.0041666666666664,75.02083333333319,146.88112985484537,981,71,79
+Jazz_09,King Porter Stomp,Jazz,Jazz/Jazz Piano/Jelly Roll Morton/King Porter Stomp.mid,194.66976,1.3331916666666668,63.06591000000013,207.7630617851721,2979,64,100
+Jazz_10,Strollin ,Jazz,Jazz/Smooth Jazz/Paul Brown/Strollin .mid,180.3426768,1.3321415250000004,79.2356350500002,191.21970341482523,2007,71,86
+Latin_01,Second Promise,Latin,Latin/Salsa/Amilcar/Second Promise.mid,165.31630375,3.99984,13.35988225000006,212.66673451748375,1107,47,103
+Latin_02,La Media Vuelta,Latin,Latin/Latin/Luis Miguel/La Media Vuelta.mid,160.48,2.719999999999999,30.62499999999995,92.51700680272124,544,28,51
+Latin_03,Fria Como El Viento,Latin,Latin/Latin/Luis Miguel/Fria Como El Viento.mid,239.9919514833333,0.3870968000000232,7.741936000000095,161.1999892533341,727,29,35
+Latin_04,No Llores Por Mi,Latin,Latin/Latin/Enrique Iglesias/No Llores Por Mi.mid,219.12,3.2,23.8,147.65624999999972,920,38,45
+Latin_05,Regresa A Mi (Unbreak My Heart),Latin,Latin/Latin/Yuridia/Regresa A Mi (Unbreak My Heart).mid,197.471269375,4.285716,25.64937567083318,152.79943377690225,554,46,70
+Latin_06,Para Morir Iguales,Latin,Latin/Cumbia/Los Caminantes/Para Morir Iguales.mid,211.7425411875,2.823528,106.75582897500004,81.67741940788045,781,39,43
+Latin_07,Tanto Amor,Latin,Latin/Norteno/Los Humildes/Tanto Amor.mid,211.8425151833333,1.547945566666666,32.99315838333341,181.6267518787972,1231,28,100
+Latin_08,Silent Night,Latin,Latin/Rumba/Robert Michaels/Silent Night.mid,136.1171875,2.2682291666666665,32.632812499999986,214.8585638793908,782,30,25
+Latin_09,Dónde está la vida,Latin,Latin/Latin/Francisco Céspedes/Dónde está la vida.mid,178.99687742499995,3.145367225,15.53814220000003,201.25094137074035,519,59,65
+Latin_10,Amor_ Amor_ Amor,Latin,Latin/Latin/Luis Miguel/Amor_ Amor_ Amor.mid,218.979452,1.632652,12.590694768229124,66.81822525002815,753,39,29
+Pop_01,My Friend The Wind,Pop,Pop/Classic Uk Pop/Demis Roussos/My Friend The Wind.mid,186.87145971666664,2.750000458333318,28.985719116666573,216.42508470209967,716,30,95
+Pop_02,End Of The World (Digital Re-Recording),Pop,Pop/Brill Building Pop/Brenda Lee/End Of The World (Digital Re-Recording).mid,183.5022639166666,3.94467390625,10.891937322916668,178.88637483254354,642,42,63
+Pop_03,Xin Zui (Album Version),Pop,Pop/C-Pop/Andy Lau/Xin Zui (Album Version).mid,235.5,0.7333333333333333,30.049999999999848,124.4060475161985,891,31,49
+Pop_04,Come Vorrei,Pop,Pop/Classic Italian Pop/Ricchi E Poveri/Come Vorrei.mid,206.17897990833333,2.565217733333333,81.76086138333353,131.49336147191175,1105,43,66
+Pop_05,Laughter,Pop,Pop/Chamber Pop/Josh Rouse/Laughter.mid,178.8664071614583,4.3636,16.70298580729169,91.32151572961212,554,18,22
+Pop_06,Il Gatto E La Volpe,Pop,Pop/Classic Italian Pop/Edoardo Bennato/Il Gatto E La Volpe.mid,180.09017940833334,2.553188,38.13026703749993,171.39768608738763,1481,50,92
+Pop_07,Svarta pärlan i london,Pop,Pop/Italian Arena Pop/Di Leva/Svarta pärlan i london.mid,125.58806384166668,1.846148,55.384440000000005,109.03260333442684,667,16,51
+Pop_08,Seasons In The Sun,Pop,Pop/Dance Pop/Westlife/Seasons In The Sun.mid,202.38990675,3.4126010937499984,36.393820859375154,174.4077457703073,666,42,71
+Pop_09,Piano Bar,Pop,Pop/Classic Italian Pop/Francesco De Gregori/Piano Bar.mid,165.10176095833336,1.5686240000000002,9.133966833333346,129.46182327754963,843,43,68
+Pop_10,One In A Million (Remix),Pop,Pop/Europop/Bosson/One In A Million (Remix).mid,209.31881284375004,2.108001223958333,9.098122317708327,141.79526569643218,150,21,46
+Country_01,Weve Only Just Begun (Digitally Remastered),Country,Country/Classic Country Pop/Lynn Anderson/Weve Only Just Begun (Digitally Remastered).mid,190.1414845,4.571425000000005,33.86554102083335,126.88550390216388,917,46,40
+Country_02,Where The Roses Never Fade,Country,Country/Traditional Country/Charlie Louvin/Where The Roses Never Fade.mid,130.73174000000003,3.902440000000001,6.113822666666644,118.00735057196316,450,22,36
+Country_03,Make The World Go Away,Country,Country/Contemporary Country/Martina McBride/Make The World Go Away.mid,237.9567359,3.3731914416666484,27.655821991666706,139.17936191806132,943,33,80
+Country_04,Forever Yours,Country,Country/Classic Country Pop/Dottie West/Forever Yours.mid,204.44296426666668,2.337684266666667,6.311368808333267,140.740729012347,734,25,40
+Country_05,Silver Bells,Country,Country/Nashville Sound/Chet Atkins/Silver Bells.mid,163.31875000000002,1.2874999999999943,63.10624999999976,177.230769230769,1197,50,36
+Country_06,Dont Close Your Eyes,Country,Country/Contemporary Country/Kellie Pickler/Dont Close Your Eyes.mid,182.53333333333333,3.306666666666665,19.93333333333335,112.5,689,24,59
+Country_07,Dont Be Angry,Country,Country/Classic Country Pop/Stonewall Jackson/Dont Be Angry.mid,208.6956,4.1739120000000005,27.873906074999976,163.18770146530628,965,15,40
+Country_08,O Holy Night,Country,Country/Country/John Berry/O Holy Night.mid,219.337548,3.870966,4.60254059374995,185.5317004655866,1534,54,40
+Country_09,Your Last Goodbye,Country,Country/Nashville Sound/Floyd Cramer/Your Last Goodbye.mid,134.849868,2.571426,3.4499965500000456,205.16149548407608,744,33,39
+Country_10,When You Lie Next To Me,Country,Country/Country/Kellie Coffey/When You Lie Next To Me.mid,198.115626875,2.3412915624999995,9.931848062499878,174.08008704004362,575,28,45
+Folk_01,Away In a Manger,Folk,Folk/Folk/Mindy Smith/Away In a Manger.mid,163.31875000000002,1.2874999999999943,63.10624999999976,177.230769230769,1197,50,36
+Folk_02,It Came Upon A Midnight Clear,Folk,Folk/Folk/The Roches/It Came Upon A Midnight Clear.mid,129.13541666666666,4.401041666666666,28.19791666666658,182.7045075125204,694,47,69
+Folk_03,The Battle Won (Tryptich),Folk,Folk/Lilith/Wild Colonials/The Battle Won (Tryptich).mid,234.18727631640616,2.38450753125,11.75826918359337,175.58461154938252,1002,56,90
+Folk_04,Over And Over (Album Version),Folk,Folk/Lilith/Rachael Yamagata/Over And Over (Album Version).mid,196.748046875,3.75,71.15234375,119.66935866983374,821,25,59
+Folk_05,Love Me Do (As made famous by The Beatles),Folk,Folk/Roots Americana/The B-Sides/Love Me Do (As made famous by The Beatles).mid,145.83119580729166,3.31028,37.076860104166606,93.82536682519844,524,16,42
+Folk_06,War Machine,Folk,Folk/British Folk/Bill Fay/War Machine.mid,218.5696363,2.790696,30.947655850000075,95.61885287098085,801,23,61
+Folk_07,La-La-La,Folk,Folk/Alpine Yodeling/Jacob Sisters/La-La-La.mid,171.0546875,3.75,17.5830078125,237.55096047962817,1016,24,48
+Folk_08,Mona Lisa Waits,Folk,Folk/Contemporary Folk/Cliff Eberhardt/Mona Lisa Waits.mid,228.93221536458336,3.701915364583334,61.490256510416586,75.00015625032553,802,16,45
+Folk_09,Lakes Of Pontchartrain,Folk,Folk/Irish Folk/Christy Moore/Lakes Of Pontchartrain.mid,233.335753175,3.407143425,39.29286369166664,139.34493636750662,889,35,52
+Folk_10,Chains (As made famous by The Beatles),Folk,Folk/Roots Americana/The B-Sides/Chains (As made famous by The Beatles).mid,130.0712985,1.714284,12.114273599999995,156.00015600015604,461,26,36
+World_01,Högt över havet,World,World/Classic Swedish Pop/Arja Saijonmaa/Högt över havet.mid,205.3,1.9833333333333327,49.3499999999999,105.2631578947369,991,32,32
+World_02,Soñarás,World,World/Classic Eurovision/Serafin Zubiri/Soñarás.mid,193.2384695000013,1.7895025000000002,26.0456479270834,175.50625849490365,700,52,23
+World_03,Coisas Do Brasil,World,World/Bossa Nova/Leila Pinheiro/Coisas Do Brasil.mid,236.6774351333333,2.6612905,98.75807109999994,182.04571590212703,2393,51,86
+World_04,Hvis Din Far Gir Dig Lov,World,World/Classic Danish Pop/Caroline Henderson/Hvis Din Far Gir Dig Lov.mid,221.33463575,2.2960888333333287,32.34154141666677,215.37475631368352,1460,29,75
+World_05,Fuir Le Bonheur De Peur Quil Ne Se Sauve (Live),World,World/Chanson/Jane Birkin/Fuir Le Bonheur De Peur Quil Ne Se Sauve (Live).mid,179.3625,1.30625,8.975000000000048,132.5443786982245,835,18,59
+World_06,Que lAmour Est Violent,World,World/Chanson/Garou/Que lAmour Est Violent.mid,185.3906853437501,2.85714,8.14036699999994,151.13545280425882,463,19,58
+World_07,JMe Sens Mieux Quand JMe Sens Mal,World,World/Chanson/Eddy Mitchell/JMe Sens Mieux Quand JMe Sens Mal.mid,227.525,3.0,12.625000000000057,116.8141592920354,811,36,55
+World_08,Jag bor på en stjärna (Pomp And Circumstance),World,World/Classic Swedish Pop/Sanna Nielsen/Jag bor på en stjärna (Pomp And Circumstance).mid,120.34631881250002,0.0,0.0,98.40017712031884,725,40,56
+World_09,La Vie Ne MApprend Rien,World,World/Chanson/Daniel Balavoine/La Vie Ne MApprend Rien.mid,229.86990000000003,3.11688,39.90255750000014,105.47822949459716,978,39,48
+World_10,Por Causa Dela,World,World/Pagode/Leandro and Leonardo/Por Causa Dela.mid,223.15795573333327,3.8242794833333336,13.832771183333277,202.3658664743728,775,22,52
